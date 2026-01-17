@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Deva Vishnu
+# 👋 Hi, I'm Deva!
+
 
 Mechanical Engineering undergraduate focused on building strong fundamentals in design, analysis, and software.
 
@@ -46,8 +47,8 @@ This GitHub space represents my progress, learning experiments, and future proje
     ANSYS
   </td>
     <td align="center" width="120">
-      <img src="assets/solidworks.png" width="45"/><br/>
-      SolidWorks
+      <img width="2400" height="2400" alt="solidworks-logo-png-transparent" src="https://github.com/user-attachments/assets/53ea4fc7-2046-4ef8-a017-80034f0857e1" />
+    SolidWorks
   </td>
   </tr>
 </table>
