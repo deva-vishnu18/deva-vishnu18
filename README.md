@@ -8,13 +8,7 @@ This GitHub profile documents my learning journey, practice work, and technical 
 
 ## 👤 About Me
 
-I am a Mechanical Engineering student who believes engineering should not remain limited to a single domain.
-
-My main focus is to build a strong foundation in mechanical engineering while also developing software skills that support modern engineering systems. I am interested in understanding how things work both physically and digitally, from mechanical components and structures to code, logic, and computational thinking.
-
-I work with design tools such as AutoCAD and Fusion 360 to create and understand engineering drawings and 3D models. I am currently learning ANSYS to strengthen my knowledge of structural and analysis concepts. Alongside core mechanical subjects, I am studying programming fundamentals using C and Python to improve problem-solving ability and logical reasoning.
-
-I prefer learning concepts clearly rather than rushing through topics. I believe consistency, discipline, and daily effort matter more than short-term motivation. My goal is to gradually build skills that compound over time.
+Mechanical Engineering student focused on design, analysis, and software. Currently working with AutoCAD, Fusion 360, SolidWorks, ANSYS, and programming fundamentals.
 
 This GitHub space represents my progress, learning experiments, and future projects. It is a record of growth rather than perfection.
 
@@ -48,9 +42,13 @@ This GitHub space represents my progress, learning experiments, and future proje
       Fusion 360
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="45"/><br/>
-      ANSYS
-    </td>
+      <img width="600" height="600" alt="Ansys" src="https://github.com/user-attachments/assets/de373aa7-ac7f-45fa-a1c6-69c175d629e9" />
+    ANSYS
+  </td>
+    <td align="center" width="120">
+      <img src="assets/solidworks.png" width="45"/><br/>
+      SolidWorks
+  </td>
   </tr>
 </table>
 
