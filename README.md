@@ -40,11 +40,11 @@ This GitHub space represents my progress, learning experiments, and future proje
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="assets/autocad.png" width="45"/><br/>
+      <img width="320" height="320" alt="Autocat" src="https://github.com/user-attachments/assets/e17af19f-3068-4ef9-acab-0770838b4494" <br/>
       AutoCAD
     </td>
     <td align="center" width="120">
-      <img src="assets/fusion.png" width="45"/><br/>
+     <img width="320" height="320" alt="Fusion" src="https://github.com/user-attachments/assets/f3eb7202-6c90-465c-98cd-5e254a9620a9" <br/>
       Fusion 360
     </td>
     <td align="center" width="120">
