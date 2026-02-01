@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Deva!
 
 
-Mechanical Engineering undergraduate focused on building strong fundamentals in design, analysis, and software.
+Mechanical Engineering undergraduate focused on building strong fundamentals in design and software.
 
 This GitHub profile documents my learning journey, practice work, and technical growth over time.
 
@@ -9,7 +9,7 @@ This GitHub profile documents my learning journey, practice work, and technical 
 
 ## 👤 About Me
 
-Mechanical Engineering student focused on design, analysis, and software. Currently working with AutoCAD, Fusion 360, SolidWorks, ANSYS, and programming fundamentals.
+Mechanical Engineering student focused on design and software. Currently working with AutoCAD, Fusion 360, and programming fundamentals.
 
 This GitHub space represents my progress, learning experiments, and future projects. It is a record of growth rather than perfection.
 
