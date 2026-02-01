@@ -42,15 +42,7 @@ This GitHub space represents my progress, learning experiments, and future proje
      <img width="320" height="320" alt="Fusion" src="https://github.com/user-attachments/assets/f3eb7202-6c90-465c-98cd-5e254a9620a9" <br/>
       Fusion 360
     </td>
-    <td align="center" width="120">
-      <img width="600" height="600" alt="Ansys" src="https://github.com/user-attachments/assets/de373aa7-ac7f-45fa-a1c6-69c175d629e9" />
-    ANSYS
-  </td>
-    <td align="center" width="120">
-      <img width="2400" height="2400" alt="solidworks-logo-png-transparent" src="https://github.com/user-attachments/assets/53ea4fc7-2046-4ef8-a017-80034f0857e1" />
-    SolidWorks
-  </td>
-  </tr>
+    
 </table>
 
 ---
@@ -58,7 +50,6 @@ This GitHub space represents my progress, learning experiments, and future proje
 ## 📘 Currently Learning
 
 • Advanced Fusion 360 modeling  
-• ANSYS structural and analysis concepts  
 • Python for engineering applications  
 • Linux fundamentals  
 • Git and GitHub workflow  
